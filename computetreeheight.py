@@ -39,15 +39,4 @@ print('height is ', k)
 
 
 
-'''
-
-for i in range(1,5):
-    sys.stdout.write('Minie')
-    sys.stderr.write('Kabra')
-
-for i in range(1,5):
-    print('Minie')
-    print('Kabra')
-    
-'''
 
