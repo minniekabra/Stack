@@ -1,3 +1,7 @@
+'''
+This code finds the height of a tree, not necessarily a binary tree
+'''
+
 import sys
 
 
