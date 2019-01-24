@@ -1,6 +1,6 @@
 # python3
 '''
-This code implements an editor functionality: Check brackets in the code
+This code implements an editor functionality using data structure Hash: Check brackets in the code 
 '''
 
 import sys
