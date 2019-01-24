@@ -1,4 +1,8 @@
 # python3
+'''
+This code implements an editor functionality: Check brackets in the code
+'''
+
 import sys
 
 
